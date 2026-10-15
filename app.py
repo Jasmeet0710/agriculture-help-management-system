@@ -336,7 +336,7 @@ footer {
         </div>
 
         <div class="card">
-            <img src="https://images.unsplash.com/photo-1518977676601-b53f82aba655?auto=format&fit=crop&w=700&q=80">
+            <img src="/static/crop-disease.jpg.jfif">
             <div class="card-content">
                 <div class="icon">🛡️</div>
                 <h3>Crop Diseases</h3>
@@ -356,7 +356,7 @@ footer {
         </div>
 
         <div class="card">
-            <img src="https://images.unsplash.com/photo-1499529112087-3cb3b73cec95?auto=format&fit=crop&w=700&q=80">
+            <img src="/static/farming-tips.jpg">
             <div class="card-content">
                 <div class="icon">💡</div>
                 <h3>Farming Tips</h3>
@@ -639,7 +639,7 @@ def crops():
             </div>
 
             <img
-                src="https://images.unsplash.com/photo-1592982537447-6f2a6a0d0dca?auto=format&fit=crop&w=600&q=85"
+                src="/static/farmerinfieled.jpg"
                 alt="Farmer working in a field"
             >
         </section>
@@ -702,7 +702,7 @@ def crops():
             <div class="card">
                 <img
                     class="crop-image"
-                    src="https://images.unsplash.com/photo-1490750967868-88aa4486c946?auto=format&fit=crop&w=700&q=85"
+                    src="/static/mustard.jpg"
                     alt="Yellow flowers"
                 >
 
@@ -1106,7 +1106,7 @@ def diseases():
 
                 <div class="card">
                     <img
-                        src="https://images.unsplash.com/photo-1536630596251-b0c7c5b5e4e6?auto=format&fit=crop&w=700&q=80"
+                        src="/static/rice-blast.jpg"
                         alt="Rice cultivation"
                         loading="lazy">
 
@@ -1121,7 +1121,7 @@ def diseases():
 
                 <div class="card">
                     <img
-                        src="https://images.unsplash.com/photo-1595872018818-97555653a011?auto=format&fit=crop&w=700&q=80"
+                        src="/static/cotton-leaf-curl.jpg"
                         alt="Green agricultural crop"
                         loading="lazy">
 
@@ -1136,7 +1136,7 @@ def diseases():
 
                 <div class="card">
                     <img
-                        src="https://images.unsplash.com/photo-1499529112087-3cb3b73cec95?auto=format&fit=crop&w=700&q=80"
+                        src="/static/mustard-white-rust.jpg"
                         alt="Green mustard-like crop field"
                         loading="lazy">
 
